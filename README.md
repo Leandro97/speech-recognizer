@@ -22,3 +22,6 @@ cd LibriSpeech
 cd ..
 python create_desc_json.py LibriSpeech/dev-clean/ train_corpus.json
 python create_desc_json.py LibriSpeech/test-clean/ valid_corpus.json
+
+## Presentation script
+https://docs.google.com/document/d/1RgDw9on_WAeryO0PhHRUM5MQnBsQrgjQ0MTWVJn_jXY
