@@ -1,0 +1,4 @@
+SpeechRecognition
+PyAudio
+gTTS
+python-vlc
